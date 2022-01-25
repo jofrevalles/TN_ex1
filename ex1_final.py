@@ -2,8 +2,11 @@
 """
 Created on Sun Jan  9 10:44:24 2022
 
-HOMEWORK for Tensor Networks. Master in Quantum Science and Technology.
+Assignment 1 for the course on Tensor Networks. Master in Quantum Science and Technology.
 Universitat de Barcelona.
+
+Professor: Luca Tagliacozzo
+
 
 @author: Jofre Vallès Muns -> https://github.com/jofrevalles
 
